@@ -1,0 +1,8 @@
+2025-09-16T12:07:21.485962600-Nigel Rushwaya: Deposited 500.0. New Balance is: 2500.0
+2025-09-16T12:07:21.504914300-Nigel Rushwaya: Remaining balance is: 2500.0
+2025-09-16T12:07:21.506914300-Nigel Rushwaya: Amount withdrawn is: 2000.0. New balance is: 500.0
+2025-09-16T12:07:21.507905500-Nigel Rushwaya: Remaining balance is: 500.0
+2025-09-16T12:07:21.508952700-Nigel Rushwaya: Withdrawal attempt has failed: 800.0
+2025-09-16T12:07:21.508952700-Nigel Rushwaya: Remaining balance is: 500.0
+2025-09-16T12:07:21.508952700-Nigel Rushwaya: Deposit procedure has failed: -100.0
+2025-09-16T12:07:21.513950-Nigel Rushwaya: Remaining balance is: 500.0
